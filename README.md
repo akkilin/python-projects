@@ -1,2 +1,2 @@
 # python-projects
-Python Portfolio
+Python Simple projects
